@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Yosef 👋
+
+Check out my portfolio to look at my projects: https://yosefzebene.github.io/Portfolio/
 
 <!--
 **yosefzebene/yosefzebene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
